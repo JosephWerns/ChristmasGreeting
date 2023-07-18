@@ -17,9 +17,4 @@ A simple Android application to put beginner skills into practice.  The app will
   * Same format as top
 - [x] Image background
 - [x] Convert to Fragment
-- [ ] Use string format for greeting including name
-  * Get name from viewmodel
-
-## Things to work on
-
-- [ ] What should go in a readme file
+- [X] Use string format for greeting including name
