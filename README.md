@@ -9,14 +9,14 @@ A simple Android application to put beginner skills into practice.  The app will
   * readMe file 
 - [x] ReadMe file with markdown
   * place to store readme file in Android Studio
-- [ ] Text Message at top ("Merry Christmas")
+- [x] Text Message at top ("Merry Christmas")
   * 36sp
   * Casual
   * Black
-- [ ] Text Message at bottom (From Cindy)
+- [x] Text Message at bottom (From Cindy)
   * Same format as top
-- [ ] Image background
-- [ ] Convert to Fragment
+- [x] Image background
+- [x] Convert to Fragment
 - [ ] Use string format for greeting including name
   * Get name from viewmodel
 
